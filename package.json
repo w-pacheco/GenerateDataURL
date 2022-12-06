@@ -1,0 +1,23 @@
+{
+  "name": "generatedataurl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --open=index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-pacheco/GenerateDataURL.git"
+  },
+  "author": "Wilfredo Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-pacheco/GenerateDataURL/issues"
+  },
+  "homepage": "https://github.com/w-pacheco/GenerateDataURL#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
